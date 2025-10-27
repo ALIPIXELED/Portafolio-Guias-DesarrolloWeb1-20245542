@@ -1,0 +1,19 @@
+header h1 {
+  font-size: 2rem;
+}
+
+main {
+  width: 85%;
+}
+
+.guia-grid {
+  justify-content: space-between;
+}
+
+.guia {
+  width: 22%;
+}
+
+.foda-item {
+  flex: 1 1 45%;
+}
